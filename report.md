@@ -5,11 +5,11 @@
 - Verified using test_objects
 
 ### Screenshot 1A
-(paste screenshot)
+![Screenshot 1A](SCREENSHOTS/1a.png)
 
 
 ### Screenshot 1B
-(paste screenshot)
+![Screenshot 1B](SCREENSHOTS/1b.png)
 
 ---
 
@@ -18,10 +18,10 @@
 - Verified using test_tree
 
 ### Screenshot 2A
-(paste screenshot)
+![Screenshot 2A](SCREENSHOTS/2a.png)
 
 ### Screenshot 2B
-(paste screenshot)
+![Screenshot 2B](SCREENSHOTS/2b.png)
 
 ---
 
@@ -29,10 +29,10 @@
 - Implemented index_load, index_save, index_add
 
 ### Screenshot 3A
-(paste screenshot)
+![Screenshot 3A](SCREENSHOTS/3a.png)
 
 ### Screenshot 3B
-(paste screenshot)
+![Screenshot 3B](SCREENSHOTS/3b.png)
 
 ---
 
@@ -40,15 +40,18 @@
 - Implemented commit_create
 
 ### Screenshot 4A
-(paste screenshot)
+![Screenshot 4A](SCREENSHOTS/4a.png)
 
 ### Screenshot 4B
-(paste screenshot)
+![Screenshot 4B](SCREENSHOTS/4b.png)
 
 ### Screenshot 4C
-(paste screenshot)
+![Screenshot 4C](SCREENSHOTS/4c.png)
 
 ---
+
+### FINAL
+![Screenshot FINAL](SCREENSHOTS/final.png)
 
 ## Q5.1
 Branch is a file storing commit hash. Checkout updates HEAD and working directory.
